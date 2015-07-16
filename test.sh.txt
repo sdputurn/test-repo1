@@ -1,0 +1,6 @@
+echo Welcome to github
+hostname
+uname --all
+echo end
+exit 1
+
